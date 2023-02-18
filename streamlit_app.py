@@ -2,7 +2,10 @@ import streamlit
 
 streamlit.title('A Nice Title')
 
-streamlit.header('Look, it\'s a header')
+streamlit.header('Breakfast Menu')
+streamlit.text('🫐 Omega 3 & Blueberry Oatmeal')
+streamlit.text('🥬 Kale, Spinach & Rocket Smoothie')
+streamlit.text('🍳 Hard-Boiled Free-Range Egg')
 
-streamlit.text('Words')
-streamlit.text('more words')
+streamlit.header('🍌🥭 Build Your Own Fruit Smoothie 🥝🍇')
+
